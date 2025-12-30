@@ -57,8 +57,8 @@ Ex-investment banker, marketer, and startup founder—now channeling that divers
 ### 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=darrylwongqz&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrylwongqz&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=darrylwongqz&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darrylwongqz&theme=default" alt="Top Languages" />
 </p>
 
 ---
