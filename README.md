@@ -41,7 +41,7 @@ Ex-investment banker, marketer, and startup founder—now channeling that divers
 
 ---
 
-### 🚀 Featured AI Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
